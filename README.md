@@ -56,5 +56,4 @@ Utöka testprogrammet genom att:
 ### Inlämning och redovisning:
 Projektet lämnas in som github länk på omniway senst **fredag 11/10 kl 23.59**<br>
 Individuell redovisning enligt:
-[schema](https://docs.google.com/spreadsheets/d/1LpzxFrutM2tMXutu-EkiEUIXtPQ_K3vjM-9v1qOayqc/edit?usp=sharing)
 
